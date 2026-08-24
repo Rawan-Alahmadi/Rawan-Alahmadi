@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=556B2F&height=140&section=header" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=FFDEE0&vCenter=true&width=800&lines=Hello%20World%21%20I%27m%20Rawan%20%F0%9F%8C%9F;Exploring%20the%20endless%20possibilities%20of%20Artificial%20Intelligence." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=17&pause=1000&color=FFDEE0&center=true&vCenter=true&width=750&lines=Hello%20World%21%20I%27m%20Rawan%20%F0%9F%8C%9F;Exploring%20the%20endless%20possibilities%20of%20Artificial%20Intelligence." alt="Typing SVG" />
 
 <p>
   <a href="https://www.linkedin.com/in/rawanjalahmadi" target="_blank">
@@ -87,7 +87,7 @@ Artificial Intelligence Specialist with hands-on experience in Machine Learning,
 
 <td width="50%" valign="top">
 
-### <img src="https://cdn.simpleicons.org/github/3B4A1F" width="20" style="vertical-align:middle"/> Yaqidh — Smart Vision System for Child Safety
+### <img src="https://cdn.simpleicons.org/github/FFDEE0" width="20" style="vertical-align:middle"/> Yaqidh — Smart Vision System for Child Safety
 
 An AI-powered real-time vision system designed to enhance child safety in daycare and home environments. Uses fine-tuned YOLOv8 models to detect falls and physical violence from video streams, with temporal decision logic to reduce false alerts and identify critical incidents.
 
@@ -106,7 +106,7 @@ An AI-powered real-time vision system designed to enhance child safety in daycar
 
 <td width="50%" valign="top">
 
-### <img src="https://cdn.simpleicons.org/github/475A25" width="20" style="vertical-align:middle"/> Senad — Smart Municipal Service Prioritization
+### <img src="https://cdn.simpleicons.org/github/FFDEE0" width="20" style="vertical-align:middle"/> Senad — Smart Municipal Service Prioritization
 
 An intelligent decision-support system developed for the Holy Makkah Municipality to automate the prioritization of municipal service requests. Combines Random Forest and XGBoost models with risk, population, geographic scope, and report-volume features to generate ranked service priorities for more efficient resource allocation.
 
