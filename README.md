@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=556B2F&height=140&section=header" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=FFDEE0&center=true&vCenter=true&width=650&lines=Hello%20World%21%20I'm%20Rawan%20%F0%9F%8C%9F;Exploring%20the%20endless%20possibilities%20of%20Artificial%20Intelligence." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=FFDEE0&vCenter=true&width=800&lines=Hello%20World%21%20I%27m%20Rawan%20%F0%9F%8C%9F;Exploring%20the%20endless%20possibilities%20of%20Artificial%20Intelligence." alt="Typing SVG" />
 
 <p>
   <a href="https://www.linkedin.com/in/rawanjalahmadi" target="_blank">
@@ -21,7 +21,7 @@
 
 ## About Me
 
-Artificial Intelligence Specialist and graduate from Umm Al-Qura University with hands-on experience in Machine Learning, Deep Learning, Computer Vision, and Generative AI. Passionate about building intelligent systems and exploring emerging AI technologies to develop practical, impactful solutions.
+Artificial Intelligence Specialist with hands-on experience in Machine Learning, Deep Learning, Computer Vision, and Generative AI. Passionate about building intelligent systems and exploring emerging AI technologies to develop practical, impactful solutions.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B4A1F,50:556B2F,100:8FA382&height=3&section=header" width="100%" />
 
