@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=556B2F&height=140&section=header" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=FFDEE0&center=true&vCenter=true&width=650&lines=Hello%20World%21%20I'm%20Rawan%20%F0%9F%8C%9F;Artificial%20Intelligence%20Graduate;Building%20Practical%20AI%20Solutions." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=FFDEE0&center=true&vCenter=true&width=650&lines=Hello%20World%21%20I'm%20Rawan%20%F0%9F%8C%9F;Exploring%20the%20endless%20possibilities%20of%20Artificial%20Intelligence." alt="Typing SVG" />
 
 <p>
   <a href="https://www.linkedin.com/in/rawanjalahmadi" target="_blank">
@@ -21,13 +21,7 @@
 
 ## About Me
 
-Artificial Intelligence graduate from Umm Al-Qura University with hands-on experience in machine learning, deep learning, computer vision, data analysis, and AI-powered systems.
-
-I enjoy turning data and AI models into practical solutions that address real-world problems — from intelligent municipal decision-support systems to computer vision applications for child safety.
-
-Currently focused on expanding my expertise in AI engineering, intelligent systems, and generative AI.
-
-<br>
+Artificial Intelligence Specialist and graduate from Umm Al-Qura University with hands-on experience in Machine Learning, Deep Learning, Computer Vision, and Generative AI. Passionate about building intelligent systems and exploring emerging AI technologies to develop practical, impactful solutions.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B4A1F,50:556B2F,100:8FA382&height=3&section=header" width="100%" />
 
@@ -84,8 +78,6 @@ Currently focused on expanding my expertise in AI engineering, intelligent syste
 
 </div>
 
-<br>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8FA382,50:D1A7AC,100:FFDEE0&height=3&section=header" width="100%" />
 
 ## Featured Projects
@@ -95,11 +87,9 @@ Currently focused on expanding my expertise in AI engineering, intelligent syste
 
 <td width="50%" valign="top">
 
-### 🔹 Yaqidh — Smart Vision System
+### <img src="https://cdn.simpleicons.org/github/3B4A1F" width="20" style="vertical-align:middle"/> Yaqidh — Smart Vision System for Child Safety
 
-An AI-powered child safety system designed to detect falls and physical violence in real time using computer vision.
-
-The system processes video streams and identifies potentially dangerous events, helping caregivers respond quickly to safety incidents.
+An AI-powered real-time vision system designed to enhance child safety in daycare and home environments. Uses fine-tuned YOLOv8 models to detect falls and physical violence from video streams, with temporal decision logic to reduce false alerts and identify critical incidents.
 
 **Technologies**
 
@@ -110,17 +100,15 @@ The system processes video streams and identifies potentially dangerous events, 
 
 <br><br>
 
-[![Repository](https://img.shields.io/badge/View_Repository-3B4A1F?style=flat-square&logo=github&logoColor=white)](https://github.com/Yaqidh-Project/Yaqidh)
+[![Repository](https://img.shields.io/badge/View_Repository-3B4A1F?style=flat-square\&logo=github\&logoColor=white)](https://github.com/Yaqidh-Project/Yaqidh)
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🔹 Senad — Smart Municipal Service Prioritization
+### <img src="https://cdn.simpleicons.org/github/475A25" width="20" style="vertical-align:middle"/> Senad — Smart Municipal Service Prioritization
 
-An AI-powered decision-support system developed during my internship at the Holy Makkah Municipality.
-
-The system analyzes municipal reports and uses machine learning models to prioritize service requests and support more efficient resource allocation.
+An intelligent decision-support system developed for the Holy Makkah Municipality to automate the prioritization of municipal service requests. Combines Random Forest and XGBoost models with risk, population, geographic scope, and report-volume features to generate ranked service priorities for more efficient resource allocation.
 
 **Technologies**
 
@@ -132,7 +120,7 @@ The system analyzes municipal reports and uses machine learning models to priori
 
 <br><br>
 
-[![Repository](https://img.shields.io/badge/View_Repository-6B8E23?style=flat-square&logo=github&logoColor=white)](https://github.com/RahafAlmalki/Senad-Project)
+[![Repository](https://img.shields.io/badge/View_Repository-6B8E23?style=flat-square\&logo=github\&logoColor=white)](https://github.com/RahafAlmalki/Senad-Project)
 
 </td>
 
@@ -142,11 +130,9 @@ The system analyzes municipal reports and uses machine learning models to priori
 
 <td width="50%" valign="top">
 
-### 🔹 Brain Tumor Classification
+### <img src="https://cdn.simpleicons.org/github/556B2F" width="20" style="vertical-align:middle"/> Brain Tumor Classification System
 
-A deep learning project for classifying MRI scans into four categories: Glioma, Meningioma, Pituitary Tumor, and No Tumor.
-
-The project uses transfer learning with VGG16 and explores different classifier configurations to improve validation performance.
+A deep learning-based MRI classification system that categorizes brain scans into four diagnostic classes: Glioma, Meningioma, Pituitary Tumor, and No Tumor. Built using VGG16 transfer learning with a customized classifier head and evaluated across different activation configurations, achieving up to 96.70% validation accuracy.
 
 **Technologies**
 
@@ -155,62 +141,50 @@ The project uses transfer learning with VGG16 and explores different classifier 
 <img src="https://img.shields.io/badge/Keras-556B2F?style=flat-square&logo=keras&logoColor=white"/>
 <img src="https://img.shields.io/badge/VGG16-6B8E23?style=flat-square&logoColor=white"/>
 
+<br><br>
+
+[![Repository](https://img.shields.io/badge/View_Repository-556B2F?style=flat-square\&logo=github\&logoColor=white)](https://github.com/AliyahAlabdali/BTCS-Project)
+
 </td>
 
 <td width="50%" valign="top">
 
-### 🔹 California Housing — ML Study
+### <img src="https://cdn.simpleicons.org/github/6B8E23" width="20" style="vertical-align:middle"/> California Housing — ML Study
 
-A comparative machine learning study using the California Housing dataset.
-
-The project explores both classification and regression approaches, comparing multiple algorithms and evaluating their performance using appropriate metrics.
+A comparative machine learning study exploring both classification and regression on the California Housing dataset. Evaluates Logistic Regression and Random Forest for price classification, alongside Linear and Polynomial Regression for continuous value prediction, with model performance compared using classification and regression metrics.
 
 **Technologies**
 
 <img src="https://img.shields.io/badge/Python-3B4A1F?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-475A25?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-475A25?style=flat-square&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-556B2F?style=flat-square&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-6B8E23?style=flat-square&logo=jupyter&logoColor=white"/>
 
 <br><br>
 
-[![Repository](https://img.shields.io/badge/View_Repository-556B2F?style=flat-square&logo=github&logoColor=white)](https://github.com/RenadAlh/CaliforniaHousingML)
+[![Repository](https://img.shields.io/badge/View_Repository-556B2F?style=flat-square\&logo=github\&logoColor=white)](https://github.com/RenadAlh/CaliforniaHousingML)
 
 </td>
 
 </tr>
 </table>
 
-<br>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B4A1F,50:556B2F,100:FFDEE0&height=3&section=header" width="100%" />
-
-## 🏆 Highlights
-
-- 🎓 Bachelor's Degree in Artificial Intelligence — Umm Al-Qura University
-- 🥇 1st Place — Best Intern Project, Makkah Municipality Digital Transformation
-- 🚀 Startup Incubation Selection — Nomou Incubator
-- 🏅 Hackathon Finalist — Jada 30 Hackathon
-- 🤖 Hands-on experience in Machine Learning, Deep Learning, Computer Vision, and AI Systems
-
-<br>
 
 <div align="center">
 
-<em>
-Currently seeking entry-level opportunities in Artificial Intelligence, Machine Learning, and AI Engineering.
-</em>
+<em>Currently seeking entry-level opportunities in Artificial Intelligence, Machine Learning, and AI Engineering.</em>
 
 <br><br>
 
 ### Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-556B2F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rawanjalahmadi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-556B2F?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/rawanjalahmadi)
 
-[![Gmail](https://img.shields.io/badge/Gmail-FFDEE0?style=for-the-badge&logo=gmail&logoColor=333333)](mailto:rawan.jalahmadi@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-FFDEE0?style=for-the-badge\&logo=gmail\&logoColor=333333)](mailto:rawan.jalahmadi@gmail.com)
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:FFDEE0,50:556B2F,100:3B4A1F&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=556B2F&height=120&section=footer" width="100%" />
 
 </div>
