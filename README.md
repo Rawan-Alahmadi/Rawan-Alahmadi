@@ -31,13 +31,13 @@ Artificial Intelligence Specialist with hands-on experience in Machine Learning,
 
 ### Machine Learning & AI
 
-<img src="https://img.shields.io/badge/Python-3B4A1F?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-475A25?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/XGBoost-556B2F?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Random_Forest-6B8E23?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-7C9E38?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-3B4A1F?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-475A25?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-D1A7AC?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-E0B8BD?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-E8C5CA?style=for-the-badge&logoColor=333333"/>
+<img src="https://img.shields.io/badge/Random_Forest-FFDEE0?style=for-the-badge&logoColor=333333"/>
+<img src="https://img.shields.io/badge/TensorFlow-D1A7AC?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-E0B8BD?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-E8C5CA?style=for-the-badge&logo=keras&logoColor=333333"/>
 
 <br><br>
 
@@ -61,20 +61,20 @@ Artificial Intelligence Specialist with hands-on experience in Machine Learning,
 
 ### Generative AI
 
-<img src="https://img.shields.io/badge/LLMs-D1A7AC?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG-E0B8BD?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prompt_Engineering-E8C5CA?style=for-the-badge&logoColor=333333"/>
-<img src="https://img.shields.io/badge/AI_Agents-FFDEE0?style=for-the-badge&logoColor=333333"/>
+<img src="https://img.shields.io/badge/LLMs-3B4A1F?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-475A25?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-556B2F?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI_Agents-6B8E23?style=for-the-badge&logoColor=white"/>
 
 <br><br>
 
 ### Tools & Platforms
 
-<img src="https://img.shields.io/badge/Git-3B4A1F?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-475A25?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-556B2F?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Colab-6B8E23?style=for-the-badge&logo=googlecolab&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-7C9E38?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-D1A7AC?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-E0B8BD?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-E8C5CA?style=for-the-badge&logo=jupyter&logoColor=333333"/>
+<img src="https://img.shields.io/badge/Google_Colab-FFDEE0?style=for-the-badge&logo=googlecolab&logoColor=333333"/>
+<img src="https://img.shields.io/badge/Figma-D1A7AC?style=for-the-badge&logo=figma&logoColor=white"/>
 
 </div>
 
@@ -95,8 +95,19 @@ An AI-powered real-time vision system designed to enhance child safety in daycar
 
 <img src="https://img.shields.io/badge/Python-3B4A1F?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/YOLOv8-475A25?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-556B2F?style=flat-square&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/Computer_Vision-6B8E23?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/ONNX_Runtime-556B2F?style=flat-square&logo=onnx&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-6B8E23?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Computer_Vision-7C9E38?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-3B4A1F?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebSockets-475A25?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-556B2F?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-6B8E23?style=flat-square&logo=sqlalchemy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Alembic-7C9E38?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-3B4A1F?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-475A25?style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redux_Toolkit-556B2F?style=flat-square&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-6B8E23?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-7C9E38?style=flat-square&logo=vercel&logoColor=white"/>
 
 <br><br>
 
@@ -106,27 +117,62 @@ An AI-powered real-time vision system designed to enhance child safety in daycar
 
 <td width="50%" valign="top">
 
-### <img src="https://cdn.simpleicons.org/github/FFDEE0" width="20" style="vertical-align:middle"/> Senad — Smart Municipal Service Prioritization
+### <img src="https://cdn.simpleicons.org/github/FFDEE0" width="20" style="vertical-align:middle"/> IdeaFoundry — Multi-Agent Idea Validation System
 
-An intelligent decision-support system developed for the Holy Makkah Municipality to automate the prioritization of municipal service requests. Combines Random Forest and XGBoost models with risk, population, geographic scope, and report-volume features to generate ranked service priorities for more efficient resource allocation.
+A multi-agent system that validates early-stage business ideas for founders in Saudi Arabia. A Supervisor agent routes each idea through tool-calling handoffs to Market, Competitor, and Business analysts running in parallel, grounded in Monsha'at guidance via Agentic RAG and live web search. Every claim is labeled as evidence or assumption, with human-in-the-loop gates before analysis and long-term memory writes.
 
 **Technologies**
 
 <img src="https://img.shields.io/badge/Python-3B4A1F?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Random_Forest-475A25?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/XGBoost-556B2F?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-6B8E23?style=flat-square&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-7C9E38?style=flat-square&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-475A25?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-556B2F?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangSmith-6B8E23?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Groq-7C9E38?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Multi--Agent_Systems-3B4A1F?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Agentic_RAG-475A25?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging_Face-556B2F?style=flat-square&logo=huggingface&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sentence_Transformers-6B8E23?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pydantic-7C9E38?style=flat-square&logo=pydantic&logoColor=white"/>
+<img src="https://img.shields.io/badge/BeautifulSoup-3B4A1F?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Web_Search-475A25?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Human--in--the--Loop-556B2F?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Colab-6B8E23?style=flat-square&logo=googlecolab&logoColor=white"/>
 
 <br><br>
 
-[![Repository](https://img.shields.io/badge/View_Repository-6B8E23?style=flat-square\&logo=github\&logoColor=white)](https://github.com/RahafAlmalki/Senad-Project)
+[![Repository](https://img.shields.io/badge/View_Repository-6B8E23?style=flat-square\&logo=github\&logoColor=white)](https://github.com/Rawan-Alahmadi/IdeaFoundry)
 
 </td>
 
 </tr>
 
 <tr>
+
+<td width="50%" valign="top">
+
+### <img src="https://cdn.simpleicons.org/github/556B2F" width="20" style="vertical-align:middle"/> AirPassengers — Time Series Forecasting
+
+A forecasting study of monthly international airline passengers (1949–1960). Benchmarks Seasonal ARIMA, ETS, Theta, and STL models against a seasonal naive baseline across 8 rolling-origin test years, evaluating both forecast accuracy and the reliability of the uncertainty range. Seasonal ARIMA halved the 12-month error (MASE 0.647 vs 1.313) and won 7 of 8 test years.
+
+**Technologies**
+
+<img src="https://img.shields.io/badge/Python-3B4A1F?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/statsforecast-475A25?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/statsmodels-556B2F?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/AutoGluon-6B8E23?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seasonal_ARIMA-7C9E38?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Time_Series-3B4A1F?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-475A25?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-556B2F?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-6B8E23?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-7C9E38?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-3B4A1F?style=flat-square&logo=jupyter&logoColor=white"/>
+
+<br><br>
+
+[![Repository](https://img.shields.io/badge/View_Repository-556B2F?style=flat-square\&logo=github\&logoColor=white)](https://github.com/Rawan-Alahmadi/international-airpassengers-project)
+
+</td>
 
 <td width="50%" valign="top">
 
@@ -140,29 +186,15 @@ A deep learning-based MRI classification system that categorizes brain scans int
 <img src="https://img.shields.io/badge/TensorFlow-475A25?style=flat-square&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Keras-556B2F?style=flat-square&logo=keras&logoColor=white"/>
 <img src="https://img.shields.io/badge/VGG16-6B8E23?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Transfer_Learning-7C9E38?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/ONNX_Runtime_Web-3B4A1F?style=flat-square&logo=onnx&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-475A25?style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-556B2F?style=flat-square&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-6B8E23?style=flat-square&logo=tailwindcss&logoColor=white"/>
 
 <br><br>
 
 [![Repository](https://img.shields.io/badge/View_Repository-556B2F?style=flat-square\&logo=github\&logoColor=white)](https://github.com/AliyahAlabdali/BTCS-Project)
-
-</td>
-
-<td width="50%" valign="top">
-
-### <img src="https://cdn.simpleicons.org/github/6B8E23" width="20" style="vertical-align:middle"/> California Housing — ML Study
-
-A comparative machine learning study exploring both classification and regression on the California Housing dataset. Evaluates Logistic Regression and Random Forest for price classification, alongside Linear and Polynomial Regression for continuous value prediction, with model performance compared using classification and regression metrics.
-
-**Technologies**
-
-<img src="https://img.shields.io/badge/Python-3B4A1F?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--learn-475A25?style=flat-square&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-556B2F?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-6B8E23?style=flat-square&logo=jupyter&logoColor=white"/>
-
-<br><br>
-
-[![Repository](https://img.shields.io/badge/View_Repository-556B2F?style=flat-square\&logo=github\&logoColor=white)](https://github.com/RenadAlh/CaliforniaHousingML)
 
 </td>
 
