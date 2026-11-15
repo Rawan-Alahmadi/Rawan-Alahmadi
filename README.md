@@ -84,15 +84,11 @@ Artificial Intelligence Specialist with hands-on experience in Machine Learning,
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B4A1F,100:8FA382&height=70&section=header&text=Yaqidh&fontSize=28&fontColor=FFFFFF&fontAlignY=55" width="100%" />
 
+<div align="center">
+
 <em>Smart Vision System for Child Safety</em>
 
 An AI-powered real-time vision system designed to enhance child safety in daycare and home environments. Uses fine-tuned YOLOv8 models to detect falls and physical violence from video streams, with temporal decision logic to reduce false alerts and identify critical incidents.
-
-<p align="center">
-  <a href="https://drive.google.com/file/d/1gR5Adeat6XKeJb-j9T-kjN15vZKI8x94/view?usp=sharing">
-    <img src="https://raw.githubusercontent.com/Yaqidh-Project/Yaqidh/main/assets/demo-thumbnail.jpg" width="600" alt="Yaqidh Demo"/>
-  </a>
-</p>
 
 **Technologies**
 
@@ -114,12 +110,55 @@ An AI-powered real-time vision system designed to enhance child safety in daycar
 
 <br><br>
 
-[![Repository](https://img.shields.io/badge/View_Repository-3B4A1F?style=flat-square\&logo=github\&logoColor=white)](https://github.com/Yaqidh-Project/Yaqidh)
-[![Demo](https://img.shields.io/badge/Watch_Demo-6B8E23?style=flat-square\&logo=googledrive\&logoColor=white)](https://drive.google.com/file/d/1gR5Adeat6XKeJb-j9T-kjN15vZKI8x94/view?usp=sharing)
+<a href="https://github.com/Yaqidh-Project/Yaqidh"><img src="assets/repo.svg" height="46" alt="View Repository"/></a>
+&nbsp;
+<a href="https://drive.google.com/file/d/1gR5Adeat6XKeJb-j9T-kjN15vZKI8x94/view?usp=sharing"><img src="assets/demo.svg" height="46" alt="Watch Demo"/></a>
+
+</div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D1A7AC,100:FFDEE0&height=70&section=header&text=AirPassengers&fontSize=28&fontColor=3B4A1F&fontAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C9939A,100:FFDEE0&height=70&section=header&text=Jood&fontSize=28&fontColor=3B4A1F&fontAlignY=55" width="100%" />
+
+<div align="center">
+
+<em>AI-Powered Recipe Platform from Available Ingredients</em>
+
+An AI-powered platform that turns a single photo of available ingredients into personalized recipes. A DeepSeek vision-language pipeline with tiled re-detection identifies ingredients (F1 0.926 on real kitchen photos), then generates recipes validated against dietary restrictions, preparation time, and expiring items, adding any missing ingredients to a shopping list. Passed 27 of 27 functional test cases.
+
+**Technologies**
+
+<img src="https://img.shields.io/badge/Python-3B4A1F?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/DeepSeek-475A25?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vision--Language_Models-556B2F?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLMs-6B8E23?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-7C9E38?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-3B4A1F?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pydantic-475A25?style=flat-square&logo=pydantic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-556B2F?style=flat-square&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-6B8E23?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-7C9E38?style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-3B4A1F?style=flat-square&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-475A25?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pillow-556B2F?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-6B8E23?style=flat-square&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-7C9E38?style=flat-square&logo=render&logoColor=white"/>
+
+<br><br>
+
+<a href="https://github.com/Jood-Labs/Jood"><img src="assets/repo.svg" height="46" alt="View Repository"/></a>
+&nbsp;
+<a href="https://jood-ai.vercel.app/"><img src="assets/website.svg" height="46" alt="Visit Website"/></a>
+&nbsp;
+<a href="https://github.com/user-attachments/assets/d1254507-f5da-4006-92dd-d5b93a4ea599"><img src="assets/demo.svg" height="46" alt="Watch Demo"/></a>
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B4A1F,100:8FA382&height=70&section=header&text=AirPassengers&fontSize=28&fontColor=FFFFFF&fontAlignY=55" width="100%" />
+
+<div align="center">
 
 <em>Time Series Forecasting</em>
 
@@ -141,12 +180,17 @@ A forecasting study of monthly international airline passengers (1949–1960). B
 
 <br><br>
 
-[![Repository](https://img.shields.io/badge/View_Repository-556B2F?style=flat-square\&logo=github\&logoColor=white)](https://github.com/Rawan-Alahmadi/international-airpassengers-project)
-[![Open in Colab](https://img.shields.io/badge/Open_in_Colab-6B8E23?style=flat-square\&logo=googlecolab\&logoColor=white)](https://colab.research.google.com/github/Rawan-Alahmadi/international-airpassengers-project/blob/main/project.ipynb)
+<a href="https://github.com/Rawan-Alahmadi/international-airpassengers-project"><img src="assets/repo.svg" height="46" alt="View Repository"/></a>
+&nbsp;
+<a href="https://colab.research.google.com/github/Rawan-Alahmadi/international-airpassengers-project/blob/main/project.ipynb"><img src="assets/colab.svg" height="46" alt="Open in Colab"/></a>
+
+</div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B4A1F,100:8FA382&height=70&section=header&text=IdeaFoundry&fontSize=28&fontColor=FFFFFF&fontAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C9939A,100:FFDEE0&height=70&section=header&text=IdeaFoundry&fontSize=28&fontColor=3B4A1F&fontAlignY=55" width="100%" />
+
+<div align="center">
 
 <em>Multi-Agent Idea Validation System</em>
 
@@ -171,11 +215,15 @@ A multi-agent system that validates early-stage business ideas for founders in S
 
 <br><br>
 
-[![Repository](https://img.shields.io/badge/View_Repository-6B8E23?style=flat-square\&logo=github\&logoColor=white)](https://github.com/Rawan-Alahmadi/IdeaFoundry)
+<a href="https://github.com/Rawan-Alahmadi/IdeaFoundry"><img src="assets/repo.svg" height="46" alt="View Repository"/></a>
+
+</div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D1A7AC,100:FFDEE0&height=70&section=header&text=Brain%20Tumor%20Classification&fontSize=28&fontColor=3B4A1F&fontAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B4A1F,100:8FA382&height=70&section=header&text=Brain%20Tumor%20Classification&fontSize=28&fontColor=FFFFFF&fontAlignY=55" width="100%" />
+
+<div align="center">
 
 <em>Deep Learning MRI Diagnostic System</em>
 
@@ -195,7 +243,9 @@ A deep learning-based MRI classification system that categorizes brain scans int
 
 <br><br>
 
-[![Repository](https://img.shields.io/badge/View_Repository-556B2F?style=flat-square\&logo=github\&logoColor=white)](https://github.com/AliyahAlabdali/BTCS-Project)
+<a href="https://github.com/AliyahAlabdali/BTCS-Project"><img src="assets/repo.svg" height="46" alt="View Repository"/></a>
+
+</div>
 
 <br>
 
