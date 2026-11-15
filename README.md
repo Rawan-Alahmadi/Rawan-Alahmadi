@@ -29,7 +29,7 @@ Artificial Intelligence Specialist with hands-on experience in Machine Learning,
 
 <div align="center">
 
-### Machine Learning & AI
+### Machine Learning & Deep Learning
 
 <img src="https://img.shields.io/badge/Python-D1A7AC?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikit--learn-E0B8BD?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
@@ -38,43 +38,68 @@ Artificial Intelligence Specialist with hands-on experience in Machine Learning,
 <img src="https://img.shields.io/badge/TensorFlow-D1A7AC?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch-E0B8BD?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/Keras-E8C5CA?style=for-the-badge&logo=keras&logoColor=333333"/>
+<img src="https://img.shields.io/badge/Transfer_Learning-FFDEE0?style=for-the-badge&logoColor=333333"/>
 
 <br><br>
 
 ### Computer Vision
 
-<img src="https://img.shields.io/badge/YOLO-556B2F?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-6B8E23?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/Computer_Vision-7C9E38?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Transfer_Learning-3B4A1F?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/YOLOv8-3B4A1F?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-475A25?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/ONNX_Runtime-556B2F?style=for-the-badge&logo=onnx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Roboflow-6B8E23?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Object_Detection-7C9E38?style=for-the-badge&logoColor=white"/>
 
 <br><br>
 
-### Data Analysis & Visualization
+### Generative AI & NLP
 
-<img src="https://img.shields.io/badge/NumPy-D1A7AC?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-E0B8BD?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-E8C5CA?style=for-the-badge&logo=powerbi&logoColor=333333"/>
-<img src="https://img.shields.io/badge/Excel-FFDEE0?style=for-the-badge&logo=microsoftexcel&logoColor=333333"/>
+<img src="https://img.shields.io/badge/LLMs-D1A7AC?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-E0B8BD?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-E8C5CA?style=for-the-badge&logo=langchain&logoColor=333333"/>
+<img src="https://img.shields.io/badge/LangSmith-FFDEE0?style=for-the-badge&logo=langchain&logoColor=333333"/>
+<img src="https://img.shields.io/badge/Multi--Agent_Systems-D1A7AC?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Agentic_RAG-E0B8BD?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vision--Language_Models-E8C5CA?style=for-the-badge&logoColor=333333"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-FFDEE0?style=for-the-badge&logoColor=333333"/>
+<img src="https://img.shields.io/badge/Hugging_Face-D1A7AC?style=for-the-badge&logo=huggingface&logoColor=white"/>
+<img src="https://img.shields.io/badge/Transformers-E0B8BD?style=for-the-badge&logoColor=white"/>
 
 <br><br>
 
-### Generative AI
+### Data Analysis & Time Series
 
-<img src="https://img.shields.io/badge/LLMs-3B4A1F?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG-475A25?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prompt_Engineering-556B2F?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI_Agents-6B8E23?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-3B4A1F?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-475A25?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-556B2F?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-6B8E23?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/statsmodels-7C9E38?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/statsforecast-3B4A1F?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/AutoGluon-475A25?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI_(DAX)-556B2F?style=for-the-badge&logo=powerbi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-6B8E23?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
+<br><br>
+
+### Backend & Databases
+
+<img src="https://img.shields.io/badge/FastAPI-D1A7AC?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-E0B8BD?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-E8C5CA?style=for-the-badge&logo=supabase&logoColor=333333"/>
+<img src="https://img.shields.io/badge/WebSockets-FFDEE0?style=for-the-badge&logoColor=333333"/>
+<img src="https://img.shields.io/badge/Pydantic-D1A7AC?style=for-the-badge&logo=pydantic&logoColor=white"/>
 
 <br><br>
 
 ### Tools & Platforms
 
-<img src="https://img.shields.io/badge/Git-D1A7AC?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-E0B8BD?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-E8C5CA?style=for-the-badge&logo=jupyter&logoColor=333333"/>
-<img src="https://img.shields.io/badge/Google_Colab-FFDEE0?style=for-the-badge&logo=googlecolab&logoColor=333333"/>
-<img src="https://img.shields.io/badge/Figma-D1A7AC?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-3B4A1F?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-475A25?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-556B2F?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Colab-6B8E23?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-7C9E38?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-3B4A1F?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/LaTeX-475A25?style=for-the-badge&logo=latex&logoColor=white"/>
 
 </div>
 
@@ -110,7 +135,7 @@ An AI-powered real-time vision system designed to enhance child safety in daycar
 
 <br><br>
 
-<a href="https://github.com/Yaqidh-Project/Yaqidh"><img src="assets/repo.svg" height="46" alt="View Repository"/></a>
+<a href="https://github.com/Yaqidh-Project/Yaqidh"><img src="assets/repo.svg?v=2" height="46" alt="View Repository"/></a>
 &nbsp;
 <a href="https://drive.google.com/file/d/1gR5Adeat6XKeJb-j9T-kjN15vZKI8x94/view?usp=sharing"><img src="assets/demo.svg" height="46" alt="Watch Demo"/></a>
 
@@ -146,7 +171,7 @@ An AI-powered platform that turns a single photo of available ingredients into p
 
 <br><br>
 
-<a href="https://github.com/Jood-Labs/Jood"><img src="assets/repo.svg" height="46" alt="View Repository"/></a>
+<a href="https://github.com/Jood-Labs/Jood"><img src="assets/repo.svg?v=2" height="46" alt="View Repository"/></a>
 &nbsp;
 <a href="https://jood-ai.vercel.app/"><img src="assets/website.svg" height="46" alt="Visit Website"/></a>
 &nbsp;
@@ -180,7 +205,7 @@ A forecasting study of monthly international airline passengers (1949–1960). B
 
 <br><br>
 
-<a href="https://github.com/Rawan-Alahmadi/international-airpassengers-project"><img src="assets/repo.svg" height="46" alt="View Repository"/></a>
+<a href="https://github.com/Rawan-Alahmadi/international-airpassengers-project"><img src="assets/repo.svg?v=2" height="46" alt="View Repository"/></a>
 &nbsp;
 <a href="https://colab.research.google.com/github/Rawan-Alahmadi/international-airpassengers-project/blob/main/project.ipynb"><img src="assets/colab.svg" height="46" alt="Open in Colab"/></a>
 
@@ -215,7 +240,7 @@ A multi-agent system that validates early-stage business ideas for founders in S
 
 <br><br>
 
-<a href="https://github.com/Rawan-Alahmadi/IdeaFoundry"><img src="assets/repo.svg" height="46" alt="View Repository"/></a>
+<a href="https://github.com/Rawan-Alahmadi/IdeaFoundry"><img src="assets/repo.svg?v=2" height="46" alt="View Repository"/></a>
 
 </div>
 
@@ -243,7 +268,7 @@ A deep learning-based MRI classification system that categorizes brain scans int
 
 <br><br>
 
-<a href="https://github.com/AliyahAlabdali/BTCS-Project"><img src="assets/repo.svg" height="46" alt="View Repository"/></a>
+<a href="https://github.com/AliyahAlabdali/BTCS-Project"><img src="assets/repo.svg?v=2" height="46" alt="View Repository"/></a>
 
 </div>
 
