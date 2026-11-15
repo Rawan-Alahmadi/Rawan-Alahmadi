@@ -82,14 +82,17 @@ Artificial Intelligence Specialist with hands-on experience in Machine Learning,
 
 ## Featured Projects
 
-<table>
-<tr>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B4A1F,100:8FA382&height=70&section=header&text=Yaqidh&fontSize=28&fontColor=FFFFFF&fontAlignY=55" width="100%" />
 
-<td width="50%" valign="top">
-
-### <img src="https://cdn.simpleicons.org/github/FFDEE0" width="20" style="vertical-align:middle"/> Yaqidh — Smart Vision System for Child Safety
+<em>Smart Vision System for Child Safety</em>
 
 An AI-powered real-time vision system designed to enhance child safety in daycare and home environments. Uses fine-tuned YOLOv8 models to detect falls and physical violence from video streams, with temporal decision logic to reduce false alerts and identify critical incidents.
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1gR5Adeat6XKeJb-j9T-kjN15vZKI8x94/view?usp=sharing">
+    <img src="https://raw.githubusercontent.com/Yaqidh-Project/Yaqidh/main/assets/demo-thumbnail.jpg" width="600" alt="Yaqidh Demo"/>
+  </a>
+</p>
 
 **Technologies**
 
@@ -112,12 +115,40 @@ An AI-powered real-time vision system designed to enhance child safety in daycar
 <br><br>
 
 [![Repository](https://img.shields.io/badge/View_Repository-3B4A1F?style=flat-square\&logo=github\&logoColor=white)](https://github.com/Yaqidh-Project/Yaqidh)
+[![Demo](https://img.shields.io/badge/Watch_Demo-6B8E23?style=flat-square\&logo=googledrive\&logoColor=white)](https://drive.google.com/file/d/1gR5Adeat6XKeJb-j9T-kjN15vZKI8x94/view?usp=sharing)
 
-</td>
+<br>
 
-<td width="50%" valign="top">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D1A7AC,100:FFDEE0&height=70&section=header&text=AirPassengers&fontSize=28&fontColor=3B4A1F&fontAlignY=55" width="100%" />
 
-### <img src="https://cdn.simpleicons.org/github/FFDEE0" width="20" style="vertical-align:middle"/> IdeaFoundry — Multi-Agent Idea Validation System
+<em>Time Series Forecasting</em>
+
+A forecasting study of monthly international airline passengers (1949–1960). Benchmarks Seasonal ARIMA, ETS, Theta, and STL models against a seasonal naive baseline across 8 rolling-origin test years, evaluating both forecast accuracy and the reliability of the uncertainty range. Seasonal ARIMA halved the 12-month error (MASE 0.647 vs 1.313) and won 7 of 8 test years.
+
+**Technologies**
+
+<img src="https://img.shields.io/badge/Python-3B4A1F?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/statsforecast-475A25?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/statsmodels-556B2F?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/AutoGluon-6B8E23?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seasonal_ARIMA-7C9E38?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Time_Series-3B4A1F?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-475A25?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-556B2F?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-6B8E23?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-7C9E38?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-3B4A1F?style=flat-square&logo=jupyter&logoColor=white"/>
+
+<br><br>
+
+[![Repository](https://img.shields.io/badge/View_Repository-556B2F?style=flat-square\&logo=github\&logoColor=white)](https://github.com/Rawan-Alahmadi/international-airpassengers-project)
+[![Open in Colab](https://img.shields.io/badge/Open_in_Colab-6B8E23?style=flat-square\&logo=googlecolab\&logoColor=white)](https://colab.research.google.com/github/Rawan-Alahmadi/international-airpassengers-project/blob/main/project.ipynb)
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B4A1F,100:8FA382&height=70&section=header&text=IdeaFoundry&fontSize=28&fontColor=FFFFFF&fontAlignY=55" width="100%" />
+
+<em>Multi-Agent Idea Validation System</em>
 
 A multi-agent system that validates early-stage business ideas for founders in Saudi Arabia. A Supervisor agent routes each idea through tool-calling handoffs to Market, Competitor, and Business analysts running in parallel, grounded in Monsha'at guidance via Agentic RAG and live web search. Every claim is labeled as evidence or assumption, with human-in-the-loop gates before analysis and long-term memory writes.
 
@@ -142,41 +173,11 @@ A multi-agent system that validates early-stage business ideas for founders in S
 
 [![Repository](https://img.shields.io/badge/View_Repository-6B8E23?style=flat-square\&logo=github\&logoColor=white)](https://github.com/Rawan-Alahmadi/IdeaFoundry)
 
-</td>
+<br>
 
-</tr>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D1A7AC,100:FFDEE0&height=70&section=header&text=Brain%20Tumor%20Classification&fontSize=28&fontColor=3B4A1F&fontAlignY=55" width="100%" />
 
-<tr>
-
-<td width="50%" valign="top">
-
-### <img src="https://cdn.simpleicons.org/github/556B2F" width="20" style="vertical-align:middle"/> AirPassengers — Time Series Forecasting
-
-A forecasting study of monthly international airline passengers (1949–1960). Benchmarks Seasonal ARIMA, ETS, Theta, and STL models against a seasonal naive baseline across 8 rolling-origin test years, evaluating both forecast accuracy and the reliability of the uncertainty range. Seasonal ARIMA halved the 12-month error (MASE 0.647 vs 1.313) and won 7 of 8 test years.
-
-**Technologies**
-
-<img src="https://img.shields.io/badge/Python-3B4A1F?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/statsforecast-475A25?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/statsmodels-556B2F?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/AutoGluon-6B8E23?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seasonal_ARIMA-7C9E38?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Time_Series-3B4A1F?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-475A25?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-556B2F?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-6B8E23?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-7C9E38?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-3B4A1F?style=flat-square&logo=jupyter&logoColor=white"/>
-
-<br><br>
-
-[![Repository](https://img.shields.io/badge/View_Repository-556B2F?style=flat-square\&logo=github\&logoColor=white)](https://github.com/Rawan-Alahmadi/international-airpassengers-project)
-
-</td>
-
-<td width="50%" valign="top">
-
-### <img src="https://cdn.simpleicons.org/github/556B2F" width="20" style="vertical-align:middle"/> Brain Tumor Classification System
+<em>Deep Learning MRI Diagnostic System</em>
 
 A deep learning-based MRI classification system that categorizes brain scans into four diagnostic classes: Glioma, Meningioma, Pituitary Tumor, and No Tumor. Built using VGG16 transfer learning with a customized classifier head and evaluated across different activation configurations, achieving up to 96.70% validation accuracy.
 
@@ -196,10 +197,7 @@ A deep learning-based MRI classification system that categorizes brain scans int
 
 [![Repository](https://img.shields.io/badge/View_Repository-556B2F?style=flat-square\&logo=github\&logoColor=white)](https://github.com/AliyahAlabdali/BTCS-Project)
 
-</td>
-
-</tr>
-</table>
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B4A1F,50:556B2F,100:FFDEE0&height=3&section=header" width="100%" />
 
